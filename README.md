@@ -27,4 +27,4 @@ Now run above command to initialize tailwind css
 ```php
 npx tailwindcss init
 ````
-Now add ``php "*",```` in tailwind.config.js inside content array, Which defines we want to use tailwind css in all content.
+Now add ````php "*",```` in tailwind.config.js inside content array, Which defines we want to use tailwind css in all content.
